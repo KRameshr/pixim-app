@@ -3,8 +3,6 @@
 A professional image search application built with React + Vite + Tailwind CSS,
 powered by the Unsplash API.
 
-![PIXIM Preview](./preview.png)
-
 ## Live Demo
 🌐 [pixim-app.vercel.app](https://pixim-app.vercel.app)
 
@@ -143,10 +141,11 @@ Free tier: 50 requests/hour
 ## Screenshots
 
 ### Home Page
-![Home](./screenshots/home.png)
+![Search Results](./Screenshot%202026-05-30%20103744.png)
+
 
 ### Search Results
-![Search](./screenshots/search.png)
+![Home Page](./Screenshot%202026-05-30%20103729.png)
 
 ## Deployment
 
@@ -166,5 +165,4 @@ MIT License — free to use for personal and commercial projects.
 
 ## Author
 **K Ramesh**
-- LinkedIn: [linkedin.com/in/kramesh](https://linkedin.com/in/kramesh)
-- GitHub: [github.com/KRameshr](https://github.com/KRameshr)
+
