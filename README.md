@@ -165,5 +165,4 @@ MIT License — free to use for personal and commercial projects.
 
 ## Author
 **K Ramesh**
-- LinkedIn: [linkedin.com/in/kramesh](https://linkedin.com/in/kramesh)
-- GitHub: [github.com/KRameshr](https://github.com/KRameshr)
+
