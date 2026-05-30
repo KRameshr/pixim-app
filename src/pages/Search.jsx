@@ -7,6 +7,7 @@ import ImageModal from "../features/gallery/components/ImageModal";
 import NoImages from "../features/gallery/components/NoImages";
 import Loader from "../shared/components/Loader";
 import { Images, TrendingUp } from "lucide-react";
+import heroBg from "../assets/bg.jpg";
 
 function Search() {
   const { images, loading, error, searchQuery, totalResults } = useGallery();
@@ -27,6 +28,15 @@ function Search() {
 
   return (
     <main className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+      <div
+        className="fixed inset-0 z-0 pointer-events-none"
+        style={{
+          backgroundImage: `url(${heroBg})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          opacity: 0.2,
+        }}
+      />
       {/* Results Header */}
       {!loading && images.length > 0 && (
         <div className="flex items-center justify-between mb-6">
