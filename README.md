@@ -3,9 +3,6 @@
 A professional image search application built with React + Vite + Tailwind CSS,
 powered by the Unsplash API.
 
-![Uploading Screenshot 2026-05-30 103729.png…]()
-
-
 ## Live Demo
 🌐 [pixim-app.vercel.app](https://pixim-app.vercel.app)
 
