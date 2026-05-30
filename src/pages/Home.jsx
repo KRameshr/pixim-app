@@ -49,7 +49,7 @@ function Home() {
           backgroundImage: `url(${heroBg})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
-          opacity: 0.1,
+          opacity: 0.05,
         }}
       />
       <section className="bg-white border-b border-slate-100">
