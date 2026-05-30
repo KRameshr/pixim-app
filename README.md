@@ -141,7 +141,7 @@ Free tier: 50 requests/hour
 ## Screenshots
 
 ### Home Page
-Screenshot 2026-05-30 103729.png
+![Search](./Screenshot 2026-05-30 103729.png)
 
 ### Search Results
 ![Search](./screenshots/search.png)
